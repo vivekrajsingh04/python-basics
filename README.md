@@ -1,30 +1,5 @@
 # 🎯 Python Core Topics Overview
 
-### 🟩 Lists
-- List vs Array, Memory storage
-- `append()`, `extend()`, `insert()`
-- List slicing, editing, deleting
-- Loops, membership, arithmetic ops
-- List comprehension, `zip()`
-- List functions & limitations
-
----
-
-### 🟨 Tuples, Sets, Dictionaries
-
-**🔸 Tuples**
-- Immutable, unpacking, `zip()`
-- Tuple vs List, built-in functions
-
-**🔸 Sets**
-- Unique elements, operations
-- `frozenset`, set comprehension
-
-**🔸 Dictionaries**
-- Key-value creation & editing
-- `zip()`, comprehension, nesting
-
----
 
 ### 🟦 Functions
 - Defining, arguments, `*args`, `**kwargs`
