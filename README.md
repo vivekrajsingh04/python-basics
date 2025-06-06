@@ -1,127 +1,65 @@
-📘 Python Learning Syllabus
-🔹 Python Lists
-List vs Array, memory storage
+# 🎯 Python Core Topics Overview
 
-Create & access lists
+### 🟩 Lists
+- List vs Array, Memory storage
+- `append()`, `extend()`, `insert()`
+- List slicing, editing, deleting
+- Loops, membership, arithmetic ops
+- List comprehension, `zip()`
+- List functions & limitations
 
-append(), extend(), insert()
+---
 
-Edit & delete items
+### 🟨 Tuples, Sets, Dictionaries
 
-Arithmetic, membership, loops
+**🔸 Tuples**
+- Immutable, unpacking, `zip()`
+- Tuple vs List, built-in functions
 
-List functions & comprehension
+**🔸 Sets**
+- Unique elements, operations
+- `frozenset`, set comprehension
 
-Two ways to traverse a list
+**🔸 Dictionaries**
+- Key-value creation & editing
+- `zip()`, comprehension, nesting
 
-zip() usage
+---
 
-Storing different object types
+### 🟦 Functions
+- Defining, arguments, `*args`, `**kwargs`
+- Scope, nested functions
+- Lambda, `map()`, `filter()`, `reduce()`
+- First-class functions, returns
 
-Limitations of lists
+---
 
-🔹 Tuples, Sets & Dictionaries
-Tuples
-Create & access
+### 🟥 OOP (Object-Oriented Programming)
 
-Immutability, operations, functions
+**🔸 Part 1**
+- Classes, objects, `__init__`, `__str__`
+- Dunder methods, `self`, diagrams
 
-Unpacking, zip(), list vs tuple
+**🔸 Part 2**
+- Attributes, static methods, encapsulation
 
-Sets
-Create, access, edit
+**🔸 Part 3**
+- Inheritance, `super()`, polymorphism
+- Method/Operator overloading
 
-Set operations & functions
+**🔸 Abstraction**
+- Abstract class, real-world design
 
-frozenset, set comprehension
+---
 
-Dictionaries
-Create, access, modify key-value pairs
+### 🟪 Advanced Python
 
-Dictionary operations & functions
-
-Comprehension, zip(), nested structures
-
-🔹 Functions
-Define functions, arguments & parameters
-
-*args, **kwargs
-
-Function docstrings
-
-Execution in memory, scope
-
-Nested functions, first-class functions
-
-Lambda, map(), filter(), reduce()
-
-Deleting & returning functions
-
-🔹 Object-Oriented Programming
-Part 1
-OOP basics, classes & objects
-
-Methods vs functions
-
-Constructor, self, class diagram
-
-Dunder methods, fraction class example
-
-Part 2
-Object attributes, reference variables
-
-Mutability, encapsulation
-
-Object collections, static methods
-
-Part 3
-Class relationships, aggregation
-
-Inheritance types, overriding, super()
-
-Polymorphism, operator overloading
-
-Abstraction
-Abstract class, bank app example
-
-Mini Project
-OOP-based coding project
-
-🔹 Advanced Python
-File Handling & Serialization
-open(), read/write/append modes
-
-Context manager (with)
-
-Working with binary files
-
-JSON & Pickle for serialization
-
-Exception Handling
-Syntax vs runtime errors
-
-Try-Except-Else-Finally
-
-Raising & creating custom exceptions
-
-Decorators & Namespaces
-Scope & LEGB rule
-
-Local, enclosing, global examples
-
-Function decorators
-
-Iterators
-Iterator vs iterable
-
-Custom for-loops, range() alternative
-
-Generators
-yield vs return
-
-Generator expressions
-
-Benefits & real-world use
+- **File Handling**: `open()`, read/write, context managers
+- **Serialization**: JSON, Pickle
+- **Exceptions**: Try/Except, custom errors
+- **Decorators**: Function wrappers
+- **Iterators & Generators**: `yield`, custom loops
+- **GUI**: `tkinter` basics
 
 Extras
 Resume building session
